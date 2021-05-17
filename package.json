@@ -1,6 +1,6 @@
 {
   "name": "@parliamodipc/randomdog",
-  "version": "1.0.0",
+  "version": "0.0.8",
   "description": "Get a dog from Random.dog",
   "main": "main.js",
   "scripts": {
