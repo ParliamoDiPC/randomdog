@@ -1,0 +1,22 @@
+{
+  "name": "@parliamodipc/randomdog",
+  "version": "1.0.0",
+  "description": "Get a dog from Random.dog",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParliamoDiPC/randomdog.git"
+  },
+  "author": "ParliamoDiPC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ParliamoDiPC/randomdog/issues"
+  },
+  "homepage": "https://github.com/ParliamoDiPC/randomdog#readme",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
