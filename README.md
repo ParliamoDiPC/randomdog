@@ -1,4 +1,4 @@
-# RandomDog ![RandomDog downloads](https://img.shields.io/npm/dw/randomdog?style=flat-square)
+# RandomDog ![RandomDog downloads](https://img.shields.io/npm/dw/@parliamodipc/randomdog?style=flat-square)
 Get a dog from Random.dog!
 
 ```
